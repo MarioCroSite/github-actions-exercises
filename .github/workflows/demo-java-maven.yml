@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven
+name: Demo Java with Maven and Docker Hub
 
 on:
   workflow_dispatch:
